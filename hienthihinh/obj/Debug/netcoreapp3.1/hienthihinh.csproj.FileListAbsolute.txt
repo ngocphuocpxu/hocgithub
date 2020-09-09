@@ -1,0 +1,13 @@
+C:\ngocphuoc\hocgithub\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.exe
+C:\ngocphuoc\hocgithub\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.deps.json
+C:\ngocphuoc\hocgithub\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.runtimeconfig.json
+C:\ngocphuoc\hocgithub\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.runtimeconfig.dev.json
+C:\ngocphuoc\hocgithub\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.dll
+C:\ngocphuoc\hocgithub\hienthihinh\bin\Debug\netcoreapp3.1\hienthihinh.pdb
+C:\ngocphuoc\hocgithub\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.csprojAssemblyReference.cache
+C:\ngocphuoc\hocgithub\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.AssemblyInfoInputs.cache
+C:\ngocphuoc\hocgithub\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.AssemblyInfo.cs
+C:\ngocphuoc\hocgithub\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\hocgithub\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.dll
+C:\ngocphuoc\hocgithub\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.pdb
+C:\ngocphuoc\hocgithub\hienthihinh\obj\Debug\netcoreapp3.1\hienthihinh.genruntimeconfig.cache

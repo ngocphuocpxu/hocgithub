@@ -1,0 +1,13 @@
+C:\ngocphuoc\hocgithub\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.exe
+C:\ngocphuoc\hocgithub\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.deps.json
+C:\ngocphuoc\hocgithub\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.runtimeconfig.json
+C:\ngocphuoc\hocgithub\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.runtimeconfig.dev.json
+C:\ngocphuoc\hocgithub\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.dll
+C:\ngocphuoc\hocgithub\kiemtranamnhuan\bin\Debug\netcoreapp3.1\kiemtranamnhuan.pdb
+C:\ngocphuoc\hocgithub\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.csprojAssemblyReference.cache
+C:\ngocphuoc\hocgithub\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.AssemblyInfoInputs.cache
+C:\ngocphuoc\hocgithub\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.AssemblyInfo.cs
+C:\ngocphuoc\hocgithub\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\hocgithub\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.dll
+C:\ngocphuoc\hocgithub\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.pdb
+C:\ngocphuoc\hocgithub\kiemtranamnhuan\obj\Debug\netcoreapp3.1\kiemtranamnhuan.genruntimeconfig.cache

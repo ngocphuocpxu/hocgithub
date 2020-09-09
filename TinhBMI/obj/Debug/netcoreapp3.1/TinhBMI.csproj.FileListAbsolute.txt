@@ -1,0 +1,13 @@
+C:\ngocphuoc\hocgithub\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.exe
+C:\ngocphuoc\hocgithub\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.deps.json
+C:\ngocphuoc\hocgithub\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.runtimeconfig.json
+C:\ngocphuoc\hocgithub\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.runtimeconfig.dev.json
+C:\ngocphuoc\hocgithub\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.dll
+C:\ngocphuoc\hocgithub\TinhBMI\bin\Debug\netcoreapp3.1\TinhBMI.pdb
+C:\ngocphuoc\hocgithub\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.csprojAssemblyReference.cache
+C:\ngocphuoc\hocgithub\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.AssemblyInfoInputs.cache
+C:\ngocphuoc\hocgithub\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.AssemblyInfo.cs
+C:\ngocphuoc\hocgithub\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\hocgithub\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.dll
+C:\ngocphuoc\hocgithub\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.pdb
+C:\ngocphuoc\hocgithub\TinhBMI\obj\Debug\netcoreapp3.1\TinhBMI.genruntimeconfig.cache

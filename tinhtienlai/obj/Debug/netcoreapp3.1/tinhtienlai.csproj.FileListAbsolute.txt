@@ -1,0 +1,13 @@
+C:\ngocphuoc\hocgithub\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.exe
+C:\ngocphuoc\hocgithub\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.deps.json
+C:\ngocphuoc\hocgithub\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.runtimeconfig.json
+C:\ngocphuoc\hocgithub\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.runtimeconfig.dev.json
+C:\ngocphuoc\hocgithub\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.dll
+C:\ngocphuoc\hocgithub\tinhtienlai\bin\Debug\netcoreapp3.1\tinhtienlai.pdb
+C:\ngocphuoc\hocgithub\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.csprojAssemblyReference.cache
+C:\ngocphuoc\hocgithub\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.AssemblyInfoInputs.cache
+C:\ngocphuoc\hocgithub\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.AssemblyInfo.cs
+C:\ngocphuoc\hocgithub\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\hocgithub\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.dll
+C:\ngocphuoc\hocgithub\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.pdb
+C:\ngocphuoc\hocgithub\tinhtienlai\obj\Debug\netcoreapp3.1\tinhtienlai.genruntimeconfig.cache
