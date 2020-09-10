@@ -1,0 +1,13 @@
+C:\ngocphuoc\hocgithub\PTbac1\bin\Debug\netcoreapp3.1\PTbac1.exe
+C:\ngocphuoc\hocgithub\PTbac1\bin\Debug\netcoreapp3.1\PTbac1.deps.json
+C:\ngocphuoc\hocgithub\PTbac1\bin\Debug\netcoreapp3.1\PTbac1.runtimeconfig.json
+C:\ngocphuoc\hocgithub\PTbac1\bin\Debug\netcoreapp3.1\PTbac1.runtimeconfig.dev.json
+C:\ngocphuoc\hocgithub\PTbac1\bin\Debug\netcoreapp3.1\PTbac1.dll
+C:\ngocphuoc\hocgithub\PTbac1\bin\Debug\netcoreapp3.1\PTbac1.pdb
+C:\ngocphuoc\hocgithub\PTbac1\obj\Debug\netcoreapp3.1\PTbac1.csprojAssemblyReference.cache
+C:\ngocphuoc\hocgithub\PTbac1\obj\Debug\netcoreapp3.1\PTbac1.AssemblyInfoInputs.cache
+C:\ngocphuoc\hocgithub\PTbac1\obj\Debug\netcoreapp3.1\PTbac1.AssemblyInfo.cs
+C:\ngocphuoc\hocgithub\PTbac1\obj\Debug\netcoreapp3.1\PTbac1.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\hocgithub\PTbac1\obj\Debug\netcoreapp3.1\PTbac1.dll
+C:\ngocphuoc\hocgithub\PTbac1\obj\Debug\netcoreapp3.1\PTbac1.pdb
+C:\ngocphuoc\hocgithub\PTbac1\obj\Debug\netcoreapp3.1\PTbac1.genruntimeconfig.cache

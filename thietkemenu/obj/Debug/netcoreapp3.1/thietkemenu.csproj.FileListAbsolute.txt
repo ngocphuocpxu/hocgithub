@@ -1,0 +1,13 @@
+C:\ngocphuoc\hocgithub\thietkemenu\bin\Debug\netcoreapp3.1\thietkemenu.exe
+C:\ngocphuoc\hocgithub\thietkemenu\bin\Debug\netcoreapp3.1\thietkemenu.deps.json
+C:\ngocphuoc\hocgithub\thietkemenu\bin\Debug\netcoreapp3.1\thietkemenu.runtimeconfig.json
+C:\ngocphuoc\hocgithub\thietkemenu\bin\Debug\netcoreapp3.1\thietkemenu.runtimeconfig.dev.json
+C:\ngocphuoc\hocgithub\thietkemenu\bin\Debug\netcoreapp3.1\thietkemenu.dll
+C:\ngocphuoc\hocgithub\thietkemenu\bin\Debug\netcoreapp3.1\thietkemenu.pdb
+C:\ngocphuoc\hocgithub\thietkemenu\obj\Debug\netcoreapp3.1\thietkemenu.csprojAssemblyReference.cache
+C:\ngocphuoc\hocgithub\thietkemenu\obj\Debug\netcoreapp3.1\thietkemenu.AssemblyInfoInputs.cache
+C:\ngocphuoc\hocgithub\thietkemenu\obj\Debug\netcoreapp3.1\thietkemenu.AssemblyInfo.cs
+C:\ngocphuoc\hocgithub\thietkemenu\obj\Debug\netcoreapp3.1\thietkemenu.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\hocgithub\thietkemenu\obj\Debug\netcoreapp3.1\thietkemenu.dll
+C:\ngocphuoc\hocgithub\thietkemenu\obj\Debug\netcoreapp3.1\thietkemenu.pdb
+C:\ngocphuoc\hocgithub\thietkemenu\obj\Debug\netcoreapp3.1\thietkemenu.genruntimeconfig.cache

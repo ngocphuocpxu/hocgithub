@@ -1,0 +1,13 @@
+C:\ngocphuoc\hocgithub\hienthiloichao\bin\Debug\netcoreapp3.1\hienthiloichao.exe
+C:\ngocphuoc\hocgithub\hienthiloichao\bin\Debug\netcoreapp3.1\hienthiloichao.deps.json
+C:\ngocphuoc\hocgithub\hienthiloichao\bin\Debug\netcoreapp3.1\hienthiloichao.runtimeconfig.json
+C:\ngocphuoc\hocgithub\hienthiloichao\bin\Debug\netcoreapp3.1\hienthiloichao.runtimeconfig.dev.json
+C:\ngocphuoc\hocgithub\hienthiloichao\bin\Debug\netcoreapp3.1\hienthiloichao.dll
+C:\ngocphuoc\hocgithub\hienthiloichao\bin\Debug\netcoreapp3.1\hienthiloichao.pdb
+C:\ngocphuoc\hocgithub\hienthiloichao\obj\Debug\netcoreapp3.1\hienthiloichao.csprojAssemblyReference.cache
+C:\ngocphuoc\hocgithub\hienthiloichao\obj\Debug\netcoreapp3.1\hienthiloichao.AssemblyInfoInputs.cache
+C:\ngocphuoc\hocgithub\hienthiloichao\obj\Debug\netcoreapp3.1\hienthiloichao.AssemblyInfo.cs
+C:\ngocphuoc\hocgithub\hienthiloichao\obj\Debug\netcoreapp3.1\hienthiloichao.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\hocgithub\hienthiloichao\obj\Debug\netcoreapp3.1\hienthiloichao.dll
+C:\ngocphuoc\hocgithub\hienthiloichao\obj\Debug\netcoreapp3.1\hienthiloichao.pdb
+C:\ngocphuoc\hocgithub\hienthiloichao\obj\Debug\netcoreapp3.1\hienthiloichao.genruntimeconfig.cache

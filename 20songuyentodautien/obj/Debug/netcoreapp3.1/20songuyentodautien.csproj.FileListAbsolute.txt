@@ -1,0 +1,13 @@
+C:\ngocphuoc\hocgithub\20songuyentodautien\bin\Debug\netcoreapp3.1\20songuyentodautien.exe
+C:\ngocphuoc\hocgithub\20songuyentodautien\bin\Debug\netcoreapp3.1\20songuyentodautien.deps.json
+C:\ngocphuoc\hocgithub\20songuyentodautien\bin\Debug\netcoreapp3.1\20songuyentodautien.runtimeconfig.json
+C:\ngocphuoc\hocgithub\20songuyentodautien\bin\Debug\netcoreapp3.1\20songuyentodautien.runtimeconfig.dev.json
+C:\ngocphuoc\hocgithub\20songuyentodautien\bin\Debug\netcoreapp3.1\20songuyentodautien.dll
+C:\ngocphuoc\hocgithub\20songuyentodautien\bin\Debug\netcoreapp3.1\20songuyentodautien.pdb
+C:\ngocphuoc\hocgithub\20songuyentodautien\obj\Debug\netcoreapp3.1\20songuyentodautien.csprojAssemblyReference.cache
+C:\ngocphuoc\hocgithub\20songuyentodautien\obj\Debug\netcoreapp3.1\20songuyentodautien.AssemblyInfoInputs.cache
+C:\ngocphuoc\hocgithub\20songuyentodautien\obj\Debug\netcoreapp3.1\20songuyentodautien.AssemblyInfo.cs
+C:\ngocphuoc\hocgithub\20songuyentodautien\obj\Debug\netcoreapp3.1\20songuyentodautien.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\hocgithub\20songuyentodautien\obj\Debug\netcoreapp3.1\20songuyentodautien.dll
+C:\ngocphuoc\hocgithub\20songuyentodautien\obj\Debug\netcoreapp3.1\20songuyentodautien.pdb
+C:\ngocphuoc\hocgithub\20songuyentodautien\obj\Debug\netcoreapp3.1\20songuyentodautien.genruntimeconfig.cache

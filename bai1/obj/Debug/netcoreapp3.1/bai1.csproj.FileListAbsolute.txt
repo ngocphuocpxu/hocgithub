@@ -1,0 +1,13 @@
+C:\ngocphuoc\hocgithub\bai1\bin\Debug\netcoreapp3.1\bai1.exe
+C:\ngocphuoc\hocgithub\bai1\bin\Debug\netcoreapp3.1\bai1.deps.json
+C:\ngocphuoc\hocgithub\bai1\bin\Debug\netcoreapp3.1\bai1.runtimeconfig.json
+C:\ngocphuoc\hocgithub\bai1\bin\Debug\netcoreapp3.1\bai1.runtimeconfig.dev.json
+C:\ngocphuoc\hocgithub\bai1\bin\Debug\netcoreapp3.1\bai1.dll
+C:\ngocphuoc\hocgithub\bai1\bin\Debug\netcoreapp3.1\bai1.pdb
+C:\ngocphuoc\hocgithub\bai1\obj\Debug\netcoreapp3.1\bai1.csprojAssemblyReference.cache
+C:\ngocphuoc\hocgithub\bai1\obj\Debug\netcoreapp3.1\bai1.AssemblyInfoInputs.cache
+C:\ngocphuoc\hocgithub\bai1\obj\Debug\netcoreapp3.1\bai1.AssemblyInfo.cs
+C:\ngocphuoc\hocgithub\bai1\obj\Debug\netcoreapp3.1\bai1.csproj.CoreCompileInputs.cache
+C:\ngocphuoc\hocgithub\bai1\obj\Debug\netcoreapp3.1\bai1.dll
+C:\ngocphuoc\hocgithub\bai1\obj\Debug\netcoreapp3.1\bai1.pdb
+C:\ngocphuoc\hocgithub\bai1\obj\Debug\netcoreapp3.1\bai1.genruntimeconfig.cache
